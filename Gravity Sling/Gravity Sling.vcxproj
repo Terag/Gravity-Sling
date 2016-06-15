@@ -151,8 +151,12 @@
     <ClInclude Include="interface.h" />
     <ClInclude Include="level.h" />
     <ClInclude Include="obstacle.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="ship.h" />
     <ClInclude Include="spaceEntity.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Gravity Sling.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
