@@ -50,7 +50,7 @@ int main()
 	Obstacle sun42(410, 350, 50, 0.5, "./textures/sun.png");
 	BlackHole bh41(100, 300, 100, 1200, 0.30, "./textures/blackHole.png");
 	BlackHole bh42(100, 300, 100, 1200, 0.30, "./textures/blackHole.png");
-	BlackHole bh43(100, 300, 50, 1200, 0.30, "./textures/blackHole.png");
+	BlackHole bh43(100, 300, 50, 600, 0.30, "./textures/blackHole.png");
 	Ship ship4(150, 65, 30, 1, 1, 1, "./textures/ship.png");
 	Level level4(ship4, exit4, "fourth Level", "./textures/space4.jpg");
 	level4.addHole(bh41);
