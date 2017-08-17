@@ -1,5 +1,9 @@
 # Gravity Sling
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Terag/Gravity-Sling/master/Gravity%20Sling/icon.png" alt="Gravity Sling Logo" height="50">
+</p>
+
 ## Synopsis
 
 This is a small puzzle game prototype with a ship and gravity ! Enjoy !
