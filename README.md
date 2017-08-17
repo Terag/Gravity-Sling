@@ -12,6 +12,10 @@ This is a small puzzle game prototype with a ship and gravity ! Enjoy !
 
 This game was developed for the JIN option of Telecom-SudParis school.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Terag/Gravity-Sling/master/Gravity%20Sling/textures/options.png" alt="Gravity Sling Logo" weight="200">
+</p>
+
 ## Installation
 
 For compilation you need Visual Studio 2015 or newer version
