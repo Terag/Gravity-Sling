@@ -20,4 +20,3 @@ private:
 	MyInterface myInterface;
 	int currentLevel;
 };
-
