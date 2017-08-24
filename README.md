@@ -31,7 +31,7 @@ For compilation you need Visual Studio 2015 or newer version
 
 ## License
 
-Copyright (c) 2017, FREAD - git@rouquette.me, May Cattant
+Copyright (c) 2017, Gravity Sling - git@rouquette.me, May Cattant
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
